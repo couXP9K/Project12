@@ -33,7 +33,9 @@ ArUco-маркеры.
 
 # LIVE-DEMO:
 
-https://github.com/couXP9K/Project12/blob/main/Полет%20в%20симуляторе.mp4
+<video width="320" height="240" controls>
+  <source type="video/mp4" src="[https://github.com/couXP9K/Project12/blob/main/Полет%20в%20симуляторе.mp4]">
+</video>
 
 # Ссылка на презентацию
 
