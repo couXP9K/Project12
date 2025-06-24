@@ -45,4 +45,4 @@ https://github.com/user-attachments/assets/db8a9047-4d8f-4698-aa5f-95cb4000c3f1
 
 # Ссылка на презентацию
 
-https://disk.yandex.ru/i/VKDkr-yDFSMrHA
+https://disk.yandex.ru/i/RildyOAgVscWpA
